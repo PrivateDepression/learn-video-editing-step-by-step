@@ -1,6 +1,3 @@
-
-
-
 # 🎬 Filmora Wondershare Free Access 2026 – Полная версия видеоредактора [Обновление 2026]
 
 <p align="center">
@@ -23,7 +20,7 @@
 
 <div align="center">
 
-[![Скачать Filmora Free Access](https://img.shields.io/badge/Скачать-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
+[![Download Filmora Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
 
 </div>
 
@@ -279,7 +276,7 @@
 
 <div align="center">
 
-[![Скачать Filmora Free Access](https://img.shields.io/badge/Скачать-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
+[![Download Filmora Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
 
 </div>
 
