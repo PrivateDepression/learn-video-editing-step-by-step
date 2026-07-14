@@ -1,931 +1,831 @@
-# 🎓 Learn Video Editing Step-by-Step 2026
+# 🎓 Изучаем видеомонтаж шаг за шагом 2026
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Video_Editing-Step_By_Step-FF6B00?style=for-the-badge&logo=adobe&logoColor=white" alt="Video Editing Step by Step"/>
-  <img src="https://img.shields.io/badge/2026-Guide-0078D4?style=for-the-badge" alt="2026 Guide"/>
-  <img src="https://img.shields.io/badge/Beginner-Pro-FFB900?style=for-the-badge" alt="Beginner to Pro"/>
-  <img src="https://img.shields.io/badge/Community-Learning-00C853?style=for-the-badge" alt="Community Learning"/>
-  <img src="https://img.shields.io/badge/Free-Tutorials-brightgreen?style=for-the-badge" alt="Free Tutorials"/>
+  <img src="https://img.shields.io/badge/Видеомонтаж-Пошагово-FF6B00?style=for-the-badge&logo=adobe&logoColor=white" alt="Видеомонтаж Пошагово"/>
+  <img src="https://img.shields.io/badge/2026-Руководство-0078D4?style=for-the-badge" alt="2026 Руководство"/>
+  <img src="https://img.shields.io/badge/С_нуля-До_профи-FFB900?style=for-the-badge" alt="С нуля до профи"/>
+  <img src="https://img.shields.io/badge/Сообщество-Обучение-00C853?style=for-the-badge" alt="Сообщество Обучение"/>
+  <img src="https://img.shields.io/badge/Бесплатно-Уроки-brightgreen?style=for-the-badge" alt="Бесплатно Уроки"/>
 </p>
 
 <p align="center">
-  <b>🔥 The ultimate step-by-step guide to learning video editing — from zero to hero in 2026</b><br>
-  <i>Master video editing with structured lessons, practical exercises, and professional tips</i>
+  <b>🔥 Полное пошаговое руководство по видеомонтажу — от новичка до профессионала в 2026 году</b><br>
+  <i>Освойте видеомонтаж с нуля с помощью структурированных уроков, практических заданий и профессиональных советов</i>
 </p>
 
 ---
 
-## 📖 Table of Contents
+## 📖 Содержание
 
-- [💡 Introduction](#-introduction)
-- [📚 Level 1: Complete Beginner](#-level-1-complete-beginner)
-- [📚 Level 2: Getting Started](#-level-2-getting-started)
-- [📚 Level 3: Basic Editing](#-level-3-basic-editing)
-- [📚 Level 4: Audio and Effects](#-level-4-audio-and-effects)
-- [📚 Level 5: Color and Graphics](#-level-5-color-and-graphics)
-- [📚 Level 6: Advanced Techniques](#-level-6-advanced-techniques)
-- [📚 Level 7: Professional Workflow](#-level-7-professional-workflow)
-- [📚 Level 8: Career and Portfolio](#-level-8-career-and-portfolio)
-- [❓ FAQ](#-faq)
-- [🤝 How to Contribute](#-how-to-contribute)
-
----
-
-## 💡 Introduction
-
-Video editing is one of the most in-demand skills in 2026. Whether you want to become a professional editor, create content for social media, or simply edit family videos, learning video editing opens up a world of creative possibilities.
-
-This step-by-step guide takes you from absolute beginner to professional editor. Each level builds on the previous one, with practical exercises, tips, and resources to help you progress.
-
-**What You'll Learn:**
-
-```
-✓ How to choose the right software
-✓ The interface and workspace
-✓ Importing and organizing footage
-✓ Basic cutting and trimming
-✓ Transitions and effects
-✓ Audio editing and mixing
-✓ Color correction and grading
-✓ Titles and graphics
-✓ Exporting for different platforms
-✓ Professional workflows
-✓ Building a portfolio
-✓ Finding work as an editor
-```
-
-**How This Guide Works:**
-
-```
-Each level contains:
-1. Learning objectives
-2. Step-by-step lessons
-3. Practical exercises
-4. Tips and tricks
-5. Resources for further learning
-```
-
-**Estimated Learning Time:**
-
-| Level | Time Commitment | Skill Level |
-|-------|-----------------|-------------|
-| Level 1 | 1-2 days | Complete Beginner |
-| Level 2 | 3-5 days | Beginner |
-| Level 3 | 1-2 weeks | Intermediate |
-| Level 4 | 1-2 weeks | Intermediate |
-| Level 5 | 2-3 weeks | Advanced |
-| Level 6 | 3-4 weeks | Advanced |
-| Level 7 | 1-2 months | Professional |
-| Level 8 | Ongoing | Career |
+- [💡 Введение](#-введение)
+- [📚 Уровень 1: Полный новичок](#-уровень-1-полный-новичок)
+- [📚 Уровень 2: Первые шаги](#-уровень-2-первые-шаги)
+- [📚 Уровень 3: Базовый монтаж](#-уровень-3-базовый-монтаж)
+- [📚 Уровень 4: Аудио и эффекты](#-уровень-4-аудио-и-эффекты)
+- [📚 Уровень 5: Цвет и графика](#-уровень-5-цвет-и-графика)
+- [📚 Уровень 6: Продвинутые техники](#-уровень-6-продвинутые-техники)
+- [📚 Уровень 7: Профессиональный процесс](#-уровень-7-профессиональный-процесс)
+- [📚 Уровень 8: Карьера и портфолио](#-уровень-8-карьера-и-портфолио)
+- [❓ Часто задаваемые вопросы](#-часто-задаваемые-вопросы)
+- [🤝 Как внести вклад](#-как-внести-вклад)
 
 ---
 
-## 📚 Level 1: Complete Beginner
+## 💡 Введение
 
-**Welcome to Video Editing!**
+Видеомонтаж — один из самых востребованных навыков в 2026 году. Хотите ли вы стать профессиональным монтажером, создавать контент для соцсетей или просто монтировать семейные видео — видеомонтаж открывает мир творческих возможностей.
 
-This level is for absolute beginners. You don't need any prior experience. We'll cover the basics and get you started on your editing journey.
+Это пошаговое руководство проведет вас от абсолютного новичка до профессионального монтажера. Каждый уровень опирается на предыдущий, с практическими заданиями, советами и ресурсами для вашего прогресса.
 
-**1.1 What is Video Editing?**
-
-Video editing is the process of manipulating and rearranging video footage to create a new work. It involves cutting, trimming, arranging clips, adding audio, effects, and transitions.
-
-**1.2 Choosing Your Software**
-
-| Software | Best For | Price | Learning Curve |
-|----------|----------|-------|----------------|
-| CapCut | Beginners, social media | Free | Very Easy |
-| DaVinci Resolve | Professional, color | Free/Paid | Medium |
-| Shotcut | Open source | Free | Easy |
-| OpenShot | Complete beginners | Free | Very Easy |
-
-**1.3 Hardware Requirements**
+**Что вы изучите:**
 
 ```
-Minimum Requirements:
-✓ Windows 10/11 or macOS
-✓ 8GB RAM (16GB recommended)
-✓ 2GB+ free storage
-✓ Integrated graphics (dedicated recommended)
-
-Recommended Requirements:
-✓ 16GB+ RAM
-✓ 4GB+ VRAM
-✓ SSD storage
-✓ 1080p+ monitor
+✓ Как выбрать подходящую программу
+✓ Интерфейс и рабочее пространство
+✓ Импорт и организация материалов
+✓ Базовая обрезка и склейка
+✓ Переходы и эффекты
+✓ Работа со звуком и музыкой
+✓ Цветокоррекция и градация
+✓ Титры и графика
+✓ Экспорт для разных платформ
+✓ Профессиональный процесс
+✓ Создание портфолио
+✓ Поиск работы монтажером
 ```
 
-**Exercise 1: Install Your Software**
+**Как работает это руководство:**
 
 ```
-1. Choose software from the list above
-2. Download from official website
-3. Install following the instructions
-4. Open the program and explore
-5. Don't worry — just look around!
+Каждый уровень содержит:
+1. Цели обучения
+2. Пошаговые уроки
+3. Практические задания
+4. Советы и рекомендации
+5. Ресурсы для дальнейшего изучения
 ```
 
-**Resources:**
-- Official software tutorials
-- YouTube beginner guides
-- Software user manual
+**Примерное время обучения:**
+
+| Уровень | Время | Уровень навыка |
+|---------|-------|----------------|
+| Уровень 1 | 1-2 дня | Полный новичок |
+| Уровень 2 | 3-5 дней | Начинающий |
+| Уровень 3 | 1-2 недели | Средний |
+| Уровень 4 | 1-2 недели | Средний |
+| Уровень 5 | 2-3 недели | Продвинутый |
+| Уровень 6 | 3-4 недели | Продвинутый |
+| Уровень 7 | 1-2 месяца | Профессиональный |
+| Уровень 8 | Постоянно | Карьера |
 
 ---
 
-## 📚 Level 2: Getting Started
+## 📚 Уровень 1: Полный новичок
 
-**Understanding Your Workspace**
+**Добро пожаловать в видеомонтаж!**
 
-**2.1 The Interface**
+Этот уровень для абсолютных новичков. Вам не нужен никакой предыдущий опыт. Мы пройдем основы и начнем ваш путь в монтаже.
 
-```
-Key Areas:
-1. Project Panel — All your files
-2. Source Monitor — View clips
-3. Program Monitor — View sequence
-4. Timeline — Arrange clips
-5. Effects Panel — Add effects
-6. Audio Panel — Volume control
-```
+**1.1 Что такое видеомонтаж?**
 
-**2.2 Importing Footage**
+Видеомонтаж — это процесс обработки и перестановки видеоматериалов для создания нового произведения. Он включает обрезку, склейку, расположение клипов, добавление аудио, эффектов и переходов.
 
-```
-Step-by-Step:
-1. Click Import (or drag and drop)
-2. Browse to your folder
-3. Select video files
-4. Click Open or Import
-5. Files appear in Project Panel
-```
+**1.2 Выбор программы**
 
-**2.3 Creating a New Project**
+| Программа | Для кого | Цена | Сложность |
+|-----------|----------|------|-----------|
+| CapCut | Новички, соцсети | Бесплатно | Очень легко |
+| DaVinci Resolve | Профессионалы | Бесплатно/Платно | Средняя |
+| Shotcut | Открытый код | Бесплатно | Легко |
+| OpenShot | Новички | Бесплатно | Очень легко |
+
+**1.3 Требования к компьютеру**
 
 ```
-How to Create:
-1. File → New Project
-2. Name your project
-3. Choose location to save
-4. Select resolution and frame rate
-5. Click Create or OK
+Минимальные требования:
+✓ Windows 10/11 или macOS
+✓ 8 ГБ ОЗУ (рекомендуется 16 ГБ)
+✓ 2 ГБ свободного места
+✓ Встроенная графика
+
+Рекомендуемые требования:
+✓ 16+ ГБ ОЗУ
+✓ 4+ ГБ видеопамяти
+✓ SSD-накопитель
+✓ Монитор 1080p+
 ```
 
-**2.4 Creating a Sequence**
+**Задание 1: Установите программу**
 
 ```
-How to Create:
-1. Right-click in Project Panel
-2. Select New Sequence (or timeline)
-3. Choose settings
-4. Click Create
-5. Timeline appears at bottom
+1. Выберите программу из списка выше
+2. Скачайте с официального сайта
+3. Установите, следуя инструкциям
+4. Откройте программу
+5. Просто осмотритесь — без паники!
 ```
 
-**2.5 Basic Navigation**
-
-```
-Controls:
-✓ Space — Play/Pause
-✓ Left/Right Arrow — Move frame by frame
-✓ Home/End — Start/End of timeline
-✓ I — Set In Point (start)
-✓ O — Set Out Point (end)
-✓ Enter — Add selection to timeline
-```
-
-**Exercise 2: Explore Your Workspace**
-
-```
-1. Record or download a short video
-2. Import it into your software
-3. Create a new project and sequence
-4. Drag your clip to the timeline
-5. Play the clip using space
-6. Familiarize yourself with all panels
-```
+**Ресурсы:**
+- Официальные уроки программы
+- Видеоуроки на YouTube
+- Руководство пользователя
 
 ---
 
-## 📚 Level 3: Basic Editing
+## 📚 Уровень 2: Первые шаги
 
-**Making Your First Edit**
+**Знакомство с интерфейсом**
 
-**3.1 Cutting and Trimming**
-
-```
-Two Methods:
-1. Razor Tool (C):
-   - Press C to select Razor tool
-   - Click where you want to cut
-   - Press V to return to Selection
-
-2. In and Out Points:
-   - Play your clip
-   - Press I at start
-   - Press O at end
-   - Drag to timeline
-```
-
-**3.2 Arranging Clips**
+**2.1 Интерфейс программы**
 
 ```
-On the Timeline:
-✓ Drag to move clips
-✓ Click edge to trim
-✓ Select and delete
-✓ Arrow keys for precision
-✓ Copy and paste clips
+Основные области:
+1. Панель проекта — Все ваши файлы
+2. Монитор источника — Просмотр клипов
+3. Монитор программы — Просмотр таймлайна
+4. Таймлайн — Расположение клипов
+5. Панель эффектов — Добавление эффектов
+6. Аудиопанель — Управление громкостью
 ```
 
-**3.3 Adding Transitions**
+**2.2 Импорт видео**
 
 ```
-How to Add:
-1. Open Effects Panel
-2. Find Video Transitions
-3. Drag to clip edge
-4. Adjust duration
-5. Preview
+Пошагово:
+1. Нажмите Импорт (или перетащите)
+2. Перейдите в папку с файлами
+3. Выберите видеофайлы
+4. Нажмите Открыть или Импорт
+5. Файлы появятся в панели проекта
 ```
 
-**3.4 Basic Speed Control**
+**2.3 Создание нового проекта**
 
 ```
-How to Change Speed:
-1. Select clip in timeline
-2. Right-click → Speed/Duration
-3. Adjust percentage
-4. Choose Forward or Reverse
-5. Click OK
+Как создать:
+1. Файл → Новый проект
+2. Назовите проект
+3. Выберите папку для сохранения
+4. Выберите разрешение и частоту кадров
+5. Нажмите Создать
 ```
 
-**3.5 Exporting Your First Video**
+**2.4 Создание таймлайна**
 
 ```
-Step-by-Step:
-1. Go to Export/File → Export
-2. Choose format (MP4 recommended)
-3. Select resolution
-4. Adjust bitrate
-5. Choose destination
-6. Click Export/Start
+Как создать:
+1. ПКМ в панели проекта
+2. Выберите Новый таймлайн/последовательность
+3. Настройте параметры
+4. Нажмите Создать
+5. Таймлайн появится внизу
 ```
 
-**Exercise 3: Edit a Short Video**
+**2.5 Управление таймлайном**
 
 ```
-1. Download or record 3-5 short clips
-2. Import all clips
-3. Arrange in a logical order
-4. Trim each clip
-5. Add simple transitions
-6. Export as MP4
-7. Watch and see your work!
+Управление:
+✓ Пробел — Воспроизвести/Пауза
+✓ Стрелки влево/вправо — По кадрам
+✓ I — Начало выделения
+✓ O — Конец выделения
+✓ Enter — Добавить выделенное на таймлайн
+```
+
+**Задание 2: Исследуйте интерфейс**
+
+```
+1. Запишите или скачайте короткое видео
+2. Импортируйте его в программу
+3. Создайте новый проект и таймлайн
+4. Перетащите клип на таймлайн
+5. Воспроизведите клип через Пробел
+6. Изучите все панели
 ```
 
 ---
 
-## 📚 Level 4: Audio and Effects
+## 📚 Уровень 3: Базовый монтаж
 
-**Sound and Visual Effects**
+**Ваш первый монтаж**
 
-**4.1 Audio Basics**
-
-```
-Audio Components:
-✓ Dialogue — Spoken words
-✓ Music — Background score
-✓ Sound Effects — Ambient, action
-✓ Voiceover — Narration
-```
-
-**4.2 Adjusting Audio Levels**
+**3.1 Обрезка и склейка**
 
 ```
-How to Adjust:
-1. Select clip in timeline
-2. View Audio Level in Effect Controls
-3. Drag level up or down
-4. Use keyframes for changes
+Два способа:
+1. Инструмент Razor/Ножницы (C):
+   - Нажмите C для выбора ножниц
+   - Нажмите на месте разреза
+   - Нажмите V для возврата к выделению
 
-Or:
-1. Audio Mixer panel
-2. Adjust sliders
-3. Real-time monitoring
+2. Точки входа и выхода:
+   - Воспроизведите клип
+   - Нажмите I в начале
+   - Нажмите O в конце
+   - Перетащите на таймлайн
 ```
 
-**4.3 Adding Music**
+**3.2 Расположение клипов**
 
 ```
-Step-by-Step:
-1. Import music file
-2. Drag to audio track
-3. Adjust volume
-4. Add fade in/out
-5. Cut or loop as needed
+На таймлайне:
+✓ Перетаскивайте для перемещения
+✓ Тяните край для обрезки
+✓ Выделите и удалите
+✓ Стрелки для точного позиционирования
+✓ Копируйте и вставляйте клипы
 ```
 
-**4.4 Basic Audio Effects**
+**3.3 Добавление переходов**
 
 ```
-Common Effects:
-✓ Equalization — Adjust frequency
-✓ Compression — Balance levels
-✓ Reverb — Add space/depth
-✓ De-esser — Reduce sibilance
-✓ Noise Reduction — Remove background noise
+Как добавить:
+1. Откройте панель эффектов
+2. Найдите Видеопереходы
+3. Перетащите на край клипа
+4. Настройте длительность
+5. Просмотрите результат
 ```
 
-**4.5 Visual Effects Basics**
+**3.4 Изменение скорости**
 
 ```
-Common Effects:
-✓ Blur — Guassian, zoom, motion
-✓ Stabilization — Remove shake
-✓ Speed Ramping — Variable speed
-✓ Crop — Remove unwanted areas
-✓ Position — Move clip in frame
-✓ Scale — Zoom in or out
+Как изменить:
+1. Выделите клип на таймлайне
+2. ПКМ → Скорость/Длительность
+3. Измените процент
+4. Выберите Вперед или Назад
+5. Нажмите ОК
 ```
 
-**4.6 Keyframing Basics**
+**3.5 Экспорт первого видео**
 
 ```
-What are Keyframes?
-✓ Control changes over time
-✓ Position, scale, opacity
-✓ Audio volume
-✓ Effects parameters
-
-How to Keyframe:
-1. Select clip
-2. Open Effect Controls
-3. Click stopwatch icon
-4. Move playhead
-5. Change value
-6. Auto keyframe created
+Пошагово:
+1. Экспорт/Файл → Экспортировать
+2. Выберите формат (MP4 рекомендуется)
+3. Выберите разрешение
+4. Настройте битрейт
+5. Выберите папку
+6. Нажмите Экспорт/Старт
 ```
 
-**Exercise 4: Edit with Audio and Effects**
+**Задание 3: Смонтируйте короткое видео**
 
 ```
-1. Edit a 60-second montage
-2. Add background music
-3. Adjust audio levels
-4. Add voiceover (record narration)
-5. Apply a visual effect (stabilize or speed)
-6. Export and review
+1. Скачайте или запишите 3-5 коротких клипов
+2. Импортируйте все клипы
+3. Расположите в логическом порядке
+4. Обрежьте каждый клип
+5. Добавьте простые переходы
+6. Экспортируйте как MP4
+7. Посмотрите свою работу!
 ```
 
 ---
 
-## 📚 Level 5: Color and Graphics
+## 📚 Уровень 4: Аудио и эффекты
 
-**Color Correction and Titles**
+**Звук и визуальные эффекты**
 
-**5.1 Understanding Color**
-
-```
-Color Terms:
-✓ White Balance — Neutral color
-✓ Exposure — Brightness
-✓ Contrast — Light vs dark
-✓ Saturation — Color intensity
-✓ Temperature — Warm vs cool
-✓ Tint — Green vs magenta
-```
-
-**5.2 Color Correction Basics**
+**4.1 Основы работы со звуком**
 
 ```
-Step-by-Step:
-1. Adjust White Balance
-2. Set correct Exposure
-3. Add Contrast
-4. Adjust Saturation
-5. Fine-tune with Curves
-6. Check Skin Tones
+Компоненты звука:
+✓ Диалоги — Речь, интервью
+✓ Музыка — Фоновое сопровождение
+✓ Звуковые эффекты — Окружающие звуки
+✓ Озвучка — Закадровый текст
 ```
 
-**5.3 Color Grading**
+**4.2 Регулировка громкости**
 
 ```
-What is Grading?
-✓ Creating a stylized look
-✓ Mood and atmosphere
-✓ Consistent aesthetic
-✓ Professional polish
+Как регулировать:
+1. Выделите клип на таймлайне
+2. Найдите уровень аудио в Эффектах
+3. Перетащите уровень вверх или вниз
+4. Используйте ключевые кадры для изменений
 
-How to Grade:
-1. Apply a LUT (Look-Up Table)
-2. Adjust to taste
-3. Add creative adjustments
-4. Check consistency
-5. Save as preset
+Или:
+1. Панель аудиомикшера
+2. Перетащите ползунки
+3. Мониторинг в реальном времени
 ```
 
-**5.4 LUTs (Look-Up Tables)**
+**4.3 Добавление музыки**
 
 ```
-What are LUTs?
-✓ Preset color transformations
-✓ Quick color styling
-✓ Professional quality
-✓ Easy to apply
-
-Where to Find:
-✓ Free LUT collections online
-✓ Built-in LUTs in software
-✓ Paid LUT packages
-✓ Custom LUTs
+Пошагово:
+1. Импортируйте музыкальный файл
+2. Перетащите на аудиодорожку
+3. Отрегулируйте громкость
+4. Добавьте плавное появление/исчезновение
+5. Обрежьте или зациклите при необходимости
 ```
 
-**5.5 Creating Titles and Graphics**
+**4.4 Основные аудиоэффекты**
 
 ```
-Types of Titles:
-✓ Lower Third — Name, title
-✓ Opening Title — Introduction
-✓ End Credits — Closing credits
-✓ Overlay Text — Information overlay
-
-How to Create:
-1. Open Title/Text tool
-2. Choose template (or start blank)
-3. Enter text
-4. Customize font, color, size
-5. Adjust position
-6. Add animation
-7. Drag to timeline
+Основные эффекты:
+✓ Эквалайзер — Регулировка частот
+✓ Компрессия — Выравнивание уровня
+✓ Реверберация — Пространство и глубина
+✓ Шумоподавление — Удаление фонового шума
 ```
 
-**5.6 Motion Graphics Basics**
+**4.5 Визуальные эффекты**
 
 ```
-Adding Graphics:
-✓ Logos and branding
-✓ Animated elements
-✓ Charts and diagrams
-✓ Call-to-action buttons
-✓ Lower thirds with animation
+Основные эффекты:
+✓ Размытие — Гаусса, зум, движение
+✓ Стабилизация — Удаление дрожания
+✓ Изменение скорости — Переменная скорость
+✓ Кадрирование — Удаление ненужных областей
+✓ Позиция — Перемещение клипа
+✓ Масштаб — Приближение/отдаление
 ```
 
-**Exercise 5: Color and Graphics**
+**4.6 Ключевые кадры**
 
 ```
-1. Color correct a clip
-2. Apply a creative LUT
-3. Add a lower third title
-4. Add a logo or graphic
-5. Create opening title animation
-6. Export and share
+Что такое ключевые кадры?
+✓ Управление изменениями во времени
+✓ Позиция, масштаб, прозрачность
+✓ Громкость аудио
+✓ Параметры эффектов
+
+Как добавить:
+1. Выделите клип
+2. Откройте панель Эффектов
+3. Нажмите на секундомер
+4. Переместите курсор
+5. Измените значение
+6. Автоматически создастся ключевой кадр
+```
+
+**Задание 4: Монтаж с аудио и эффектами**
+
+```
+1. Смонтируйте 60-секундный ролик
+2. Добавьте фоновую музыку
+3. Отрегулируйте уровни звука
+4. Добавьте озвучку
+5. Примените визуальный эффект
+6. Экспортируйте и оцените
 ```
 
 ---
 
-## 📚 Level 6: Advanced Techniques
+## 📚 Уровень 5: Цвет и графика
 
-**Professional Skills**
+**Цветокоррекция и титры**
 
-**6.1 Multi-Cam Editing**
-
-```
-What is Multi-Cam?
-✓ Multiple camera angles
-✓ Sync footage
-✓ Switch in real-time
-✓ Professional interviews, concerts
-
-How to Do:
-1. Import all camera footage
-2. Sync by audio
-3. Create multi-cam sequence
-4. Switch between cameras
-5. Refine cuts
-6. Add effects
-```
-
-**6.2 Green Screen (Chroma Key)**
+**5.1 Основы цвета**
 
 ```
-How to Remove Background:
-1. Place green screen footage
-2. Apply Ultra Key/Chroma Key effect
-3. Use eyedropper on green
-4. Adjust settings
-5. Replace background
-6. Fine-tune edge
-
-Tips:
-✓ Good lighting on green screen
-✓ Subject separated from background
-✓ Even green color
-✓ Use garbage matte
+Термины цвета:
+✓ Баланс белого — Нейтральная температура
+✓ Экспозиция — Яркость
+✓ Контраст — Разница светлого/темного
+✓ Насыщенность — Интенсивность цвета
+✓ Температура — Тепло/холодно
 ```
 
-**6.3 Motion Tracking**
+**5.2 Цветокоррекция**
 
 ```
-What is Motion Tracking?
-✓ Track objects in video
-✓ Attach elements to tracked object
-✓ Add text, graphics, effects
-✓ Follow movement
-
-How to Use:
-1. Select clip
-2. Apply tracker
-3. Select tracking point
-4. Analyze motion
-5. Attach element to tracked object
-6. Refine positioning
+Пошагово:
+1. Настройте Баланс белого
+2. Установите правильную Экспозицию
+3. Добавьте Контраст
+4. Отрегулируйте Насыщенность
+5. Используйте Кривые для точности
+6. Проверьте оттенки кожи
 ```
 
-**6.4 Advanced Color Grading**
+**5.3 Цветоградация**
 
 ```
-Professional Grading:
-✓ Primary correction — White balance, exposure
-✓ Secondary correction — Specific areas
-✓ Curves — Precise control
-✓ Log grading — Cinema style
-✓ Matching shots — Consistency
+Что такое градация?
+✓ Создание стилизованного вида
+✓ Настроение и атмосфера
+✓ Единый визуальный стиль
+✓ Профессиональный вид
+
+Как делать:
+1. Примените LUT
+2. Настройте под свой вкус
+3. Добавьте творческие изменения
+4. Проверьте единообразие
+5. Сохраните как пресет
 ```
 
-**6.5 Advanced Audio**
+**5.4 LUT (Look-Up Table)**
 
 ```
-Professional Audio:
-✓ Multiband compression
-✓ Advanced EQ
-✓ Audio effects chain
-✓ Dialogue cleanup
-✓ Audio restoration
-✓ Sound design
+Что такое LUT?
+✓ Готовые цветовые решения
+✓ Быстрая стилизация
+✓ Профессиональное качество
+✓ Простота применения
+
+Где найти:
+✓ Бесплатные коллекции LUT
+✓ Встроенные LUT
+✓ Платные наборы LUT
+✓ Свои LUT
 ```
 
-**6.6 Match Cut and Creative Transitions**
+**5.5 Создание титров и графики**
 
 ```
-Creative Transitions:
-✓ Match cut — Similar action
-✓ Wipe — Directional
-✓ Zoom — In/out zoom
-✓ Glitch — Digital distortion
-✓ Morph — Blend between clips
-✓ Speed ramping transitions
+Типы титров:
+✓ Нижняя треть — Имя, должность
+✓ Заставка — Вступление
+✓ Финальные титры — Закрытие
+✓ Текст на видео — Информация
+
+Как создать:
+1. Откройте инструмент Титры/Текст
+2. Выберите шаблон
+3. Введите текст
+4. Настройте шрифт, цвет, размер
+5. Отрегулируйте позицию
+6. Добавьте анимацию
+7. Перетащите на таймлайн
 ```
 
-**Exercise 6: Advanced Project**
+**Задание 5: Цвет и графика**
 
 ```
-1. Edit a 3-minute short film
-2. Use multi-cam (if possible)
-3. Add color grading
-4. Include motion graphics
-5. Apply creative transitions
-6. Final export and review
+1. Сделайте цветокоррекцию клипа
+2. Примените творческий LUT
+3. Добавьте титр "Нижняя треть"
+4. Добавьте логотип или графику
+5. Создайте анимированную заставку
+6. Экспортируйте
 ```
 
 ---
 
-## 📚 Level 7: Professional Workflow
+## 📚 Уровень 6: Продвинутые техники
 
-**Working Like a Pro**
+**Профессиональные навыки**
 
-**7.1 Project Organization**
-
-```
-Folder Structure:
-📁 Project_Name/
-├── 📁 Assets/
-│   ├── 📁 Video/
-│   ├── 📁 Audio/
-│   ├── 📁 Graphics/
-│   └── 📁 Images/
-├── 📁 Sequences/
-├── 📁 Exports/
-└── 📁 Backups/
-
-File Naming:
-✓ ProjectName_Date_Description_v1
-✓ Consistent naming across all files
-✓ Include version numbers
-✓ Use underscores or hyphens
-```
-
-**7.2 Keyboard Shortcuts (Premiere Pro)**
+**6.1 Многокамерный монтаж**
 
 ```
-Essential Shortcuts:
-V — Selection Tool
-C — Razor Tool
-I — In Point
-O — Out Point
-Space — Play/Pause
-+ — Zoom In
-- — Zoom Out
-Cmd/Ctrl + S — Save
-Cmd/Ctrl + Z — Undo
+Что это?
+✓ Несколько углов камер
+✓ Синхронизация видео
+✓ Переключение в реальном времени
+✓ Для интервью, концертов
+
+Как сделать:
+1. Импортируйте все видео
+2. Синхронизируйте по звуку
+3. Создайте многокамерную последовательность
+4. Переключайте камеры
+5. Уточните склейки
+6. Добавьте эффекты
 ```
 
-**7.3 Proxy Workflow**
+**6.2 Зеленый фон (Chroma Key)**
 
 ```
-What are Proxies?
-✓ Low-resolution versions of footage
-✓ Faster editing
-✓ Better performance
-✓ Convert back for export
+Как удалить фон:
+1. Поместите видео с зеленым фоном
+2. Примените эффект Chroma Key/Ultra Key
+3. Выберите пипеткой зеленый цвет
+4. Настройте параметры
+5. Замените фон
+6. Уточните края
 
-How to Create:
-1. Import footage
-2. Select clips
-3. Create proxies
-4. Edit with proxies
-5. Switch to originals for export
+Советы:
+✓ Хорошее освещение зеленого фона
+✓ Объект отделен от фона
+✓ Ровный зеленый цвет
+✓ Используйте маску
 ```
 
-**7.4 Batch Processing**
+**6.3 Трекинг движения**
 
 ```
-Efficiency Tips:
-✓ Apply effects to multiple clips
-✓ Batch export
-✓ Presets for common tasks
-✓ Automate repetitive tasks
-✓ Templates for projects
-✓ Save custom workspaces
+Что это?
+✓ Отслеживание объектов в видео
+✓ Привязка элементов к объекту
+✓ Текст, графика, эффекты
+✓ Следование за движением
+
+Как использовать:
+1. Выделите клип
+2. Примените трекер
+3. Выберите точку трекинга
+4. Проанализируйте движение
+5. Привяжите элемент к объекту
+6. Уточните позиционирование
 ```
 
-**7.5 Rendering and Export**
+**6.4 Продвинутая цветоградация**
 
 ```
-Export Settings:
-✓ Resolution — Match delivery platform
-✓ Frame Rate — 24/25/30/60fps
-✓ Bitrate — 10-50 Mbps
-✓ Format — H.264, H.265, ProRes
-✓ Audio — AAC, 48kHz, 192 kbps
-✓ Maximum Render Quality
-✓ Hardware acceleration
-
-Export Checklist:
-✓ Check sequence resolution
-✓ Verify frame rate
-✓ Check audio levels
-✓ Add metadata
-✓ Choose correct preset
-✓ Export and verify
+Профессиональная градация:
+✓ Первичная коррекция
+✓ Вторичная коррекция
+✓ Кривые — Точный контроль
+✓ Стилизация под кино
+✓ Сопоставление кадров
 ```
 
-**7.6 Backup and Archiving**
+**6.5 Продвинутый звук**
 
 ```
-Backup Strategy:
-✓ 3-2-1 Rule
-✓ 3 copies of data
-✓ 2 different storage types
-✓ 1 off-site copy
+Профессиональный звук:
+✓ Многополосная компрессия
+✓ Продвинутый эквалайзер
+✓ Звуковой дизайн
+✓ Очистка диалогов
+✓ Восстановление звука
+```
 
-Archive Process:
-✓ Organize final project
-✓ Clean up unused files
-✓ Save project file
-✓ Export final deliverables
-✓ Store with documentation
-✓ Backup to multiple locations
+**Задание 6: Продвинутый проект**
+
+```
+1. Смонтируйте 3-минутный ролик
+2. Используйте многокамерный монтаж
+3. Добавьте цветоградацию
+4. Используйте трекинг
+5. Примените творческие переходы
+6. Финальный экспорт
 ```
 
 ---
 
-## 📚 Level 8: Career and Portfolio
+## 📚 Уровень 7: Профессиональный процесс
 
-**Becoming a Professional Editor**
+**Работа как профи**
 
-**8.1 Building Your Portfolio**
+**7.1 Организация проекта**
 
 ```
-What to Include:
-✓ 5-10 best projects
-✓ Variety of styles
-✓ Before and after (if applicable)
-✓ Client testimonials
-✓ Clear descriptions
-✓ Contact information
+Структура папок:
+📁 Название_проекта/
+├── 📁 Материалы/
+│   ├── 📁 Видео/
+│   ├── 📁 Аудио/
+│   ├── 📁 Графика/
+│   └── 📁 Изображения/
+├── 📁 Таймлайны/
+├── 📁 Экспорт/
+└── 📁 Резерв/
 
-Where to Host:
-✓ Website (own domain)
-✓ Vimeo or YouTube
-✓ Portfolio platforms
+Именование файлов:
+✓ Название_Дата_Описание_v1
+✓ Единое именование
+✓ Номера версий
+✓ Нижние подчеркивания
+```
+
+**7.2 Клавиатурные сокращения**
+
+```
+Основные:
+V — Выделение
+C — Ножницы
+I — Начало
+O — Конец
+Пробел — Воспроизведение
++ — Приблизить
+- — Отдалить
+Ctrl+S — Сохранить
+Ctrl+Z — Отменить
+```
+
+**7.3 Работа с прокси**
+
+```
+Что такое прокси?
+✓ Низкое разрешение видео
+✓ Более быстрый монтаж
+✓ Лучшая производительность
+
+Как создать:
+1. Импортируйте видео
+2. Выделите клипы
+3. Создайте прокси
+4. Монтируйте с прокси
+5. Переключитесь на оригиналы для экспорта
+```
+
+**7.4 Экспорт и рендеринг**
+
+```
+Настройки экспорта:
+✓ Разрешение — Под платформу
+✓ Частота кадров — 24/25/30/60fps
+✓ Битрейт — 10-50 Мбит/с
+✓ Формат — H.264, H.265, ProRes
+✓ Аудио — AAC, 48кГц, 192 кбит/с
+
+Чеклист:
+✓ Проверьте разрешение
+✓ Проверьте частоту кадров
+✓ Проверьте уровень аудио
+✓ Выберите правильный пресет
+✓ Экспортируйте
+```
+
+---
+
+## 📚 Уровень 8: Карьера и портфолио
+
+**Становление профессионалом**
+
+**8.1 Создание портфолио**
+
+```
+Что включить:
+✓ 5-10 лучших проектов
+✓ Разные стили
+✓ До и после
+✓ Отзывы клиентов
+✓ Описание работы
+✓ Контактная информация
+
+Где разместить:
+✓ Сайт
+✓ Vimeo или YouTube
 ✓ Behance
 ✓ LinkedIn
 ```
 
-**8.2 Finding Work**
+**8.2 Поиск работы**
 
 ```
-Job Types:
-✓ Freelance — Project-based
-✓ Full-time — Company employed
-✓ Contract — Fixed-term
-✓ Agency — Through production companies
-✓ Content Creator — Social media
+Типы работы:
+✓ Фриланс
+✓ Полная занятость
+✓ Контракт
+✓ Агентство
 
-Where to Find Work:
+Где искать:
 ✓ Upwork, Fiverr
 ✓ LinkedIn
-✓ Creative job boards
-✓ Film and TV production companies
-✓ YouTube, TikTok
-✓ Networking
-✓ Word of mouth
+✓ Профильные сайты
+✓ Нетворкинг
 ```
 
-**8.3 Client Relationships**
+**8.3 Рекомендуемые ресурсы**
 
 ```
-Key Skills:
-✓ Communication
-✓ Meeting deadlines
-✓ Understanding briefs
-✓ Revisions and feedback
-✓ Professional attitude
-✓ Contract and payment
+YouTube каналы:
+✓ Фильм Риот — Эффекты
+✓ Питер Маккиннон — Советы
+✓ Видео Копилка — Визуальные эффекты
+✓ Коридор Крю — Инсайты
 
-Tips:
-✓ Underpromise, overdeliver
-✓ Clear communication
-✓ Set expectations
-✓ Deliver on time
-✓ Build relationships
-```
+Курсы:
+✓ Udemy
+✓ Skillshare
+✓ LinkedIn Learning
 
-**8.4 Continuing Education**
-
-```
-Learning Never Stops:
-✓ Follow industry news
-✓ Learn new software
-✓ Attend workshops
-✓ Online courses
-✓ Watch tutorials
-✓ Practice daily
-✓ Join communities
-```
-
-**8.5 Recommended Resources**
-
-```
-YouTube Channels:
-✓ Film Riot — Creative effects
-✓ Peter McKinnon — Editing tips
-✓ Video Copilot — Visual effects
-✓ Corridor Crew — Industry insights
-✓ Casey Faris — DaVinci Resolve
-
-Online Courses:
-✓ Udemy — Many options
-✓ Skillshare — Creative learning
-✓ LinkedIn Learning — Professional courses
-✓ MasterClass — Industry legends
-
-Books:
+Книги:
 ✓ In the Blink of an Eye
 ✓ The Art of the Cut
-✓ Editing and Post-Production
-✓ The Filmmaker's Eye
+✓ Редактура и постпродакшн
 ```
 
 ---
 
-## ❓ FAQ
+## ❓ Часто задаваемые вопросы
 
 <details>
-<summary><b>How long does it take to learn video editing?</b></summary>
+<summary><b>Сколько времени нужно, чтобы научиться видеомонтажу?</b></summary>
 
-3-6 months for basics, 6-12 months for proficiency, and 1-2 years for professional level with consistent practice.
+3-6 месяцев для основ, 6-12 месяцев для профессионализма, 1-2 года для профессионального уровня.
 
 </details>
 
 <details>
-<summary><b>What is the best software for beginners?</b></summary>
+<summary><b>Какая программа лучше для новичков?</b></summary>
 
-CapCut is excellent for beginners. DaVinci Resolve is free and offers professional features.
-
-</details>
-
-<details>
-<summary><b>Do I need a powerful computer?</b></summary>
-
-For basic editing, any modern computer works. For 4K editing, you'll need more powerful hardware.
+CapCut отлично подходит для новичков. DaVinci Resolve бесплатный и имеет профессиональные функции.
 
 </details>
 
 <details>
-<summary><b>Can I learn video editing for free?</b></summary>
+<summary><b>Нужен ли мощный компьютер?</b></summary>
 
-Yes! DaVinci Resolve is free, and there are thousands of free tutorials on YouTube.
-
-</details>
-
-<details>
-<summary><b>What are the most important editing skills?</b></summary>
-
-Cutting/trimming, audio editing, color correction, storytelling, and speed.
+Для базового монтажа подойдет любой современный компьютер. Для 4K нужен более мощный.
 
 </details>
 
 <details>
-<summary><b>How do I edit faster?</b></summary>
+<summary><b>Можно ли научиться бесплатно?</b></summary>
 
-Use keyboard shortcuts, create presets, organize your files, and use proxy files.
-
-</details>
-
-<details>
-<summary><b>What is the best format to export?</b></summary>
-
-H.264 MP4 is the most universal format for sharing online.
+Да! DaVinci Resolve бесплатен, и тысячи уроков есть на YouTube.
 
 </details>
 
 <details>
-<summary><b>How do I get my first editing job?</b></summary>
+<summary><b>Какие навыки самые важные?</b></summary>
 
-Build a portfolio, start freelancing on platforms like Upwork, and network with others.
-
-</details>
-
-<details>
-<summary><b>What should I put in my portfolio?</b></summary>
-
-Your best work (5-10 projects), before/after examples, and client testimonials.
+Обрезка, работа со звуком, цветокоррекция, сторителлинг и скорость.
 
 </details>
 
 <details>
-<summary><b>Can I edit on my phone?</b></summary>
+<summary><b>Как ускорить монтаж?</b></summary>
 
-Yes! CapCut, VN Video Editor, and InShot are excellent mobile editors.
-
-</details>
-
-<details>
-<summary><b>How much do video editors charge?</b></summary>
-
-Rates vary widely: $20-$100/hour for freelancers, $50,000-$100,000/year for full-time.
+Используйте клавиатурные сокращения, создавайте пресеты, организуйте файлы, используйте прокси.
 
 </details>
 
 <details>
-<summary><b>What is color grading?</b></summary>
+<summary><b>В каком формате экспортировать?</b></summary>
 
-Color grading is creating a creative look for your video to establish mood and style.
-
-</details>
-
-<details>
-<summary><b>How do I remove background from video?</b></summary>
-
-Use green screen (Chroma Key) or AI-powered background removal tools.
+H.264 MP4 — самый универсальный формат для публикации в интернете.
 
 </details>
 
 <details>
-<summary><b>What's a good first project?</b></summary>
+<summary><b>Как получить первую работу?</b></summary>
 
-A 1-minute montage of your favorite clips, a family video, or a short travel vlog.
+Создайте портфолио, начните фриланс на Upwork, нетворкинг.
+
+</details>
+
+<details>
+<summary><b>Что должно быть в портфолио?</b></summary>
+
+Лучшие работы (5-10 проектов), примеры до/после, отзывы клиентов.
+
+</details>
+
+<details>
+<summary><b>Можно ли монтировать на телефоне?</b></summary>
+
+Да! CapCut, VN Video Editor, InShot — отличные мобильные редакторы.
+
+</details>
+
+<details>
+<summary><b>Сколько зарабатывают монтажеры?</b></summary>
+
+Фриланс: $20-$100/час, полная занятость: $50,000-$100,000/год.
+
+</details>
+
+<details>
+<summary><b>Что такое цветоградация?</b></summary>
+
+Создание творческого стиля видео для настроения и атмосферы.
+
+</details>
+
+<details>
+<summary><b>Как удалить фон с видео?</b></summary>
+
+Используйте зеленый фон (Chroma Key) или AI-инструменты.
+
+</details>
+
+<details>
+<summary><b>Какой первый проект сделать?</b></summary>
+
+1-минутный ролик из любимых клипов, семейное видео или короткий влог.
 
 </details>
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 Как внести вклад
 
-We welcome contributions! Fork, add your insights, and submit a Pull Request.
+Мы приветствуем ваш вклад! Форкните, добавьте свои идеи и отправьте Pull Request.
 
-**What We're Looking For:**
-- ✅ New learning resources
-- ✅ Updated software information
-- ✅ Career tips and insights
-- ✅ Practical exercises
+**Что мы ищем:**
+- ✅ Новые учебные ресурсы
+- ✅ Актуальную информацию о программах
+- ✅ Карьерные советы
+- ✅ Практические задания
 
 ---
 
-## 📄 License
+## 📄 Лицензия
 
-**MIT License** — free to use, modify, and share.
+**MIT License** — свободно для использования, изменения и распространения.
 
 ---
 
 <p align="center">
-  <b>⭐ If you found this helpful, star the repository!</b><br>
-  <i>Made with ❤️ by the Video Editing Community</i>
+  <b>⭐ Если это руководство было полезным, поставьте звезду!</b><br>
+  <i>Сделано с ❤️ сообществом видеомонтажеров</i>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Last updated: July 2026 • Data accurate as of publication</sub>
+  <sub>Последнее обновление: Июль 2026 • Данные актуальны на момент публикации</sub>
 </p>
+
