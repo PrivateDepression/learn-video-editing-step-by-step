@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Filmora Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
+[![Download Filmora Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-[![Скачать Filmora Free Access](https://img.shields.io/badge/Скачать-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
+[![Скачать Filmora Free Access](https://img.shields.io/badge/Скачать-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
@@ -276,7 +276,7 @@
 
 <div align="center">
 
-[![Download Filmora Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4ynA1H5)
+[![Download Filmora Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
