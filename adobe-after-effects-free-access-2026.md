@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/3RwNM5M)
+[![Download Adobe After Effects](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/3RwNM5M)
+[![Download Adobe After Effects](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
@@ -252,7 +252,7 @@
 
 <div align="center">
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/3RwNM5M)
+[![Download Adobe After Effects](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
