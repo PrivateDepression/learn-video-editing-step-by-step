@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download CapCut Pro Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4wCSmOH)
+[![Download CapCut Pro Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-[![Download CapCut Pro Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4wCSmOH)
+[![Download CapCut Pro Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
@@ -263,7 +263,7 @@
 
 <div align="center">
 
-[![Download CapCut Pro Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://bit.ly/4wCSmOH)
+[![Download CapCut Pro Free Access](https://img.shields.io/badge/Download-FF0000?style=for-the-badge&logo=github)](https://share.google/k3gQGCnZt58kSkgI1)
 
 </div>
 
